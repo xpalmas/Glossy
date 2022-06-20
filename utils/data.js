@@ -2,8 +2,9 @@ const data = {
     products: [
         {
             name: 'Free Shirt',
+            slug: 'free-shirts',
             catagory: 'Shirts',
-            image: '/images/shirt1.jpg',
+            image: '/images/shirt2.jpg',
             price: 40,
             brand: 'Zara',
             rating: '4.5',
@@ -13,8 +14,9 @@ const data = {
         },
         {
             name: 'Fit Shirt',
+            slug: 'fit-shirts',
             catagory: 'Shirts',
-            image: '/images/shirt2.jpg',
+            image: '/images/shirt3.jpg',
             price: 60,
             brand: 'Infinity',
             rating: '4.6',
@@ -24,8 +26,9 @@ const data = {
         },
         {
             name: 'Long Shirt',
+            slug: 'long-shirts',
             catagory: 'Shirts',
-            image: '/images/shirt3.jpg',
+            image: '/images/shirt1.jpg',
             price: 70,
             brand: 'Nike',
             rating: '4.8',
@@ -35,6 +38,7 @@ const data = {
         },
         {
             name: 'Golf pant',
+            slug: 'golf-pants',
             catagory: 'Pants',
             image: '/images/pants1.jpg',
             price: 30,
@@ -46,8 +50,9 @@ const data = {
         },
         {
             name: 'Slim pant',
+            slug: 'slim-pants',
             catagory: 'Pants',
-            image: '/images/pants2.jpg',
+            image: '/images/pants3.jpg',
             price: 60,
             brand: 'Easy',
             rating: '5',
@@ -57,8 +62,9 @@ const data = {
         },
         {
             name: 'Classic pant',
+            slug: 'classic-pants',
             catagory: 'Pants',
-            image: '/images/pants3.jpg',
+            image: '/images/pants2.jpg',
             price: 40,
             brand: 'Zara',
             rating: '4.5',
